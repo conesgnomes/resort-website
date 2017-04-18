@@ -1,0 +1,36 @@
+body {
+  font-family: monospace;
+}
+
+h1 {
+  color: #215863;
+  text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  color: #215863;
+  text-align: center;
+  font-weight:lighter;
+  font-style: italic;
+}
+
+h4 {
+  color: #B3C6CA;
+}
+p {
+  color: #B3C6CA;
+}
+
+ul {
+  color: #B3C6CA;
+  font-style: italic;
+}
+
+li {
+
+}
+
+li.cabin {
+  text-align: center;
+}
